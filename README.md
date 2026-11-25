@@ -100,3 +100,7 @@ ip access-list extended ACL-VLAN10-ADM
 1. Instale o **Cisco Packet Tracer** (versão 8.2 ou superior).
 2. Faça o download do arquivo `.pkt` disponível neste repositório.
 3. Abra o projeto, aguarde a convergência do STP/OSPF (ou clique em *Fast Forward Time*) e teste os acessos via navegador, cliente de e-mail e CLI nos PCs de cada setor.
+
+---
+
+> Projeto criado e desenvolvido por David Ben. Todos os direitos são reservados.
