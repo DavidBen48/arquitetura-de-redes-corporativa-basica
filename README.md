@@ -2,7 +2,7 @@
 
 Projeto de infraestrutura de redes corporativas desenvolvido no **Cisco Packet Tracer**, simulando um ambiente empresarial completo com núcleo redundante em Camada 3, segmentação estrita por VLANs e ACLs, serviços dedicados por departamento, autenticação AAA/RADIUS, camada de armazenamento espelhada e rotina de backup de ativos de rede via TFTP.
 
-![Topologia da Rede DBLS Global](/photo/arquitetura.jpeg)
+![Topologia da Rede DBLS Global](./photo/topologia-dbls.jpeg)
 
 ---
 
